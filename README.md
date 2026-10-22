@@ -2,9 +2,9 @@
 <h3 align="center">Senior Software Engineer / Architect · 15+ years building scalable systems</h3>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN/](https://www.linkedin.com/in/i-naumov/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/i-naumov"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:igornaumov1987@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="www.ai-trip-planner.com"><img src="https://img.shields.io/badge/AI_Trip_Planner-Live-22C55E?style=for-the-badge&logo=googlemaps&logoColor=white" alt="AI Trip Planner"></a>
+  <a href="https://www.ai-trip-planner.com"><img src="https://img.shields.io/badge/AI_Trip_Planner-Live-22C55E?style=for-the-badge&logo=googlemaps&logoColor=white" alt="AI Trip Planner"></a>
 </p>
 
 ---
