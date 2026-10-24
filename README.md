@@ -28,7 +28,7 @@ I design and deliver full-stack software from **architecture to production**: sy
 - **RAG in a recruiting platform**: retrieval-augmented generation over candidate data
 - **Semantic candidate search** with OpenAI embeddings and **pgvector**
 - **MCP tool server** that lets an LLM assistant search and reason over candidate records
-- **[AI Trip Planner](YOUR_TRIP_PLANNER_URL)**: an AI-powered travel product I architected and built end to end
+- **[AI Trip Planner](https://www.ai-trip-planner.com)**: an AI-powered travel product I architected and built end to end
 
 ### 🎯 What drives me
 
